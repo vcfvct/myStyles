@@ -9,3 +9,5 @@ To Use this:
 3. Then in the **Custrom CSS**, paste the css and save.
 
 
+#Screenshot:
+![Screenshot](/screenshot/wikipedia-md1.png?raw=true "Screenshot1")
