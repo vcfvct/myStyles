@@ -80,8 +80,8 @@
     dd {
         font-size: 15px !important;
     }
-
-    #p-logo a {
+    /*need 2 ids to add more specificity to override '!important' in other languages than en*/
+    #mw-panel #p-logo a {
         background-image: url('https://i.imgur.com/ur4m5Ia.png') !important;
     }
 
