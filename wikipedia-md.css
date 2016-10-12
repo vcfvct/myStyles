@@ -80,8 +80,8 @@
     dd {
         font-size: 15px !important;
     }
-    /*need 2 ids to add more specificity to override '!important' in other languages than en*/
-    #mw-panel #p-logo a {
+
+    #p-logo a {
         background-image: url('https://i.imgur.com/ur4m5Ia.png') !important;
     }
 
@@ -485,4 +485,6 @@
         margin-left: 14em !important;
         padding: 1.25em 1.5em 1.5em !important;
     }
-
+    #pt-notifications-alert .mw-echo-notifications-badge:before, #pt-notifications-notice .mw-echo-notifications-badge:before{
+    	left: 8px !important;;
+    }
