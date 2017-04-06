@@ -9,12 +9,12 @@ To Use this:
 3. Then in the **Custrom CSS**, paste the css and save.
  
 
-#Customizations:
+## Customizations:
 - apply MD color/font schema
 - Dash border
 - Round Corner images/frames
 - materilized input box 
 
 
-#Screenshot:
+## Screenshot:
 ![Screenshot](/screenshot/wikipedia-md1.png?raw=true "Screenshot1")
