@@ -39,7 +39,7 @@
     }
 
     p {
-        font-weight: 300 !important;
+        font-weight: 350 !important;
         line-height: 1.9 !important;
     }
 
@@ -54,7 +54,7 @@
         border: 0px !important;
         line-height: 1.8 !important;
         font-size: 14px !important;
-        font-weight: 300 !important;
+        font-weight: 350 !important;
     }
 
     li span {
@@ -68,7 +68,7 @@
     }
 
     dl {
-        font-weight: 300 !important;
+        font-weight: 350 !important;
     }
 
     dt {
@@ -106,7 +106,7 @@
         font-size: 20px !important;
         margin: 35px 75px !important;
         line-height: 1.5 !important;
-        font-weight: 300 !important;
+        font-weight: 350 !important;
         background: transparent !important;
     }
 
@@ -180,7 +180,7 @@
     }
 
     .suggestions {
-        font-weight: 300 !important;
+        font-weight: 350 !important;
         font-size: 15px !important;
         max-width: 300px !important;
         margin-top: 15px !important;
@@ -290,7 +290,7 @@
     }
 
     .wikitable {
-        font-weight: 300 !important;
+        font-weight: 350 !important;
     }
 
     .wikitable td,.wikitable th {
@@ -347,7 +347,7 @@
 
     .dablink {
         margin: 14px 0px !important;
-        font-weight: 300 !important;
+        font-weight: 350 !important;
         font-size: 18px !important;
     }
 
@@ -362,7 +362,7 @@
         line-height: 1.5 !important;
         border: 1px dashed #aaa !important;
         max-width: 550px !important;
-        font-weight: 300 !important;
+        font-weight: 350 !important;
     }
 
     .ambox td,.tmbox td {
@@ -371,7 +371,7 @@
 
     .ambox-text-small,.mbox-text,.Note td {
         font-size: 14px !important;
-        font-weight: 300 !important;
+        font-weight: 350 !important;
         color: #000 !important;
     }
 
@@ -450,7 +450,7 @@
     .navbox td,.navbox th,.nowraplinks td,.nowraplinks th {
         padding: 9px 6px !important;
         font-size: 14px !important;
-        font-weight: 300 !important;
+        font-weight: 350 !important;
         border: 1px solid #fff !important;
         border-radius: 5px;
     }
